@@ -20,3 +20,5 @@ Ran multiple SQL queries to find different relationships among all the tables.
 ```
 Created a histogram to visualize the most common salary ranges for employees.  
 Created a bar chart of average salary by title.  
+  
+![](ERD.png)
